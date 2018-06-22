@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <!--<string name="demo">Best practices for <annotation font="title_emphasis">text</annotation> on
+        Android</string>-->
+
+    <string name="demo"> <s>Best practices for on Android</s></string>
+</resources>
